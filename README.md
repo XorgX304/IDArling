@@ -83,8 +83,6 @@ process;
 * The icons are edited and combined versions from the sites [freeiconshop.com](http://freeiconshop.com/)
 and [www.iconsplace.com](http://www.iconsplace.com).
 
-Thanks to Quarkslab for allowing this release.
-
 # Authors
 
 * Alexandre Adamski <<neat@idarling.re>>
